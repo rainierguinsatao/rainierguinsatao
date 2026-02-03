@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Rainier Guinsatao<br><br>I’m a Web Developer based in the Philippines 🇵🇭. I focus on building responsive, user-friendly websites and web applications with clean and maintainable code. I enjoy working on both frontend and backend development, turning ideas into functional web solutions and continuously improving my skills through personal, school, and client projects.<br><br>🌱 Currently:<br><br>- Enhancing my web development skills<br>- Building and refining web projects<br>- Learning modern best practices in web development
+👋 Hi, I’m Rainier Guinsatao<br><br>I’m a Web Developer based in the Philippines 🇵🇭. I focus on building responsive, user-friendly websites and web applications with clean and maintainable code. I enjoy working on both frontend and backend development, turning ideas into functional web solutions and continuously improving my skills through personal projects.<br><br>🌱 Currently:<br><br>- Enhancing my web development skills<br>- Building and refining web projects<br>- Learning modern best practices in web development
 
 
 ## 🌐 Socials:
